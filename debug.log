@@ -1,0 +1,14 @@
+[0911/043215.093:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0911/043215.097:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0911/043215.101:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0911/043215.101:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0911/123838.902:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0911/123838.902:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0911/123838.996:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0911/123838.997:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0912/140415.725:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0912/140415.772:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0912/140415.772:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0914/025449.466:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0914/025449.490:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0914/025449.494:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\GRACE\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
