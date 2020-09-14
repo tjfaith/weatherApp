@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex column" :class="bgClass">
-   
     <div class="col q-pt-lg q-px-md">
+
       <q-input  
         v-model="search" 
         @keyup.enter="getWeaterBySearch"
@@ -43,7 +43,7 @@
 <template v-else>
   <div class="col column text-center text-white">
     <div class="col text-h2 text-weight-thin">
-      Quasar<br>weather
+      LareMedia<br>weather
     </div>
      <q-btn class="col" flat @click="getLocation">
       <q-icon left size="3em" name="my_location" />
@@ -51,8 +51,13 @@
     </q-btn>
   </div>
 </template>
+
     <div class="col skyline">
+    <div>
+ <q-btn class="homeBtn" color="white" @click="weatherData = null" round dense flat icon="home" />
 </div>
+</div>
+
   </q-page>
 </template>
 
@@ -135,7 +140,7 @@ export default {
 <style lang="scss">
 
 .q-page{
-  background:linear-gradient(to bottom, #136a8a, #15726a)
+  background:linear-gradient(to bottom, rgb(0, 0, 0), #f36c43)
 }
 
 .bg-night{
@@ -154,5 +159,14 @@ export default {
   background: url(../assets/skyline.png);
   background-size: contain;
   background-position: center bottom;
+  justify-content: center;
+}
+.skyline div{
+
+  text-align:center
+}
+.homeBtn{
+  border:2px solid white
+  
 }
 </style>
